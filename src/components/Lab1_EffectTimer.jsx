@@ -17,6 +17,7 @@ export default function Lab1EffectTimer() {
       clearInterval(timerId);
     };
     // TODO 4: Dependency Array가 []일 때와 생략했을 때의 차이 관찰
+    //
     
   }, []);
 
