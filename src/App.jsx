@@ -21,7 +21,7 @@ export default function App() {
       <header className="hero">
         <p className="eyebrow">OPEN SOURCE STUDIO · WEEK 12</p>
         <h1>React Hooks Playground</h1>
-        <p>useEffect · Cleanup · useRef — 4개의 독립된 Lab</p>
+        <p>12주차 lab 4개 고치기</p>
       </header>
 
       <nav className="tabs" aria-label="실습 선택">
@@ -40,7 +40,7 @@ export default function App() {
         </div>
         <CurrentLab />
       </section>
-      <footer>랩을 전환하면 이전 Lab은 언마운트됩니다. Timer Cleanup을 확인해 보세요.</footer>
+      <footer>다했습니다.</footer>
     </main>
   );
 }
